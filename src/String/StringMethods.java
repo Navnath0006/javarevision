@@ -16,6 +16,7 @@ public class StringMethods {
 			System.out.println(jenkins[i]);
 		}
 		
+		System.out.println(s3.isEmpty());
 		
 		String s2 = "My Name is Navnath";
 		String[] ar = s2.split(" ");
