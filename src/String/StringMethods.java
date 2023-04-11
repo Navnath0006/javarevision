@@ -22,7 +22,13 @@ public class StringMethods {
 		String[] ar = s2.split(" ");
 		for(String data:ar) {
 			System.out.println(data.trim());
+			
+			
+		
 		}
+		String name1 = 	"Ishuka ";
+		String name2 = "Love you";
+		System.out.println(name1.concat(name2));
 		
 	}
 }
